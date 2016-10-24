@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ruta_metropolitana>
+<Horarios>
+<Ruta_Campings>
+<información= "Ésta línea de autobuses cerrará a las 18:00">
+<Mañana_Salida-Llegada>
+<6:30-7:00><información= "Esta parada te dejará en el Camping Tarifa">
+<7:00-7:50><información= "Esta parada te dejará en la boca de metro del Astillero">
+<7:50-8:00><información= "Esta parada te dejará en la parada de la Baeza">
+<8:00-9:50><información= "Esta parada te dejará en el Congreso">
+<9:50-11:00><información= "Esta parada te dejará a las afuestas de la ciudad">
+<11:00-12:30><información= "Esta parada, tras dar la vuelta a la ciud parará junto al río">
+<12:30-2:00><información= "Esta parada te dejará en la salida del aeropuerto">
+</Mañana_Salida-Llegada>
+<Tarde_Salida-Llegada>
+<14:00-15:00><información= "Esta parada te dejará en la entrada del puerto">
+<15:00-16:00><información= "Esta parada te dejará en la parada del metro este">
+<16:00-17:00><información= "Esta parada te dejará en la parada del centro junto al campo de fútbol">
+<17:00-18:00><información= "Esta parada te dejará en la parada de autobuses del oeste de la ciudad">
+</Tarde_Salida-Llegada>
+</Horarios>

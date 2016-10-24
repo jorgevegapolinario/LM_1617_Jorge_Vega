@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libro_de_recetas>
+<Receta_Tarta_de_queso>
+<Listado_de_ingredientes>
+<-Philadelphia>
+<-Galletas_María>
+<-Mantequilla>
+<-Leche>
+</Listado_de_ingredientes>
+</Receta_Tarta_de_queso>
+<Pasos_a_seguir>
+<Primer_paso= "En el primer paso, necesitaremos coger una olla y ponrla a calentar, donde hayamos vertido previamente 1/2 taza de leche y 1/2 taza de agua">
+<Segundo_paso= "A continuación, debemos tomar un cuenco y mezclar bien los 300g philadelphia junto a 1/2 taza de mantequilla y verter en el cuenco la leche y agua que habremos retirado ya de la olla.">
+<Tercer_paso= "Debemos remover toda la mezcla bien y dejarla durante 5min. en el frigorífico.">
+<Cuarto_paso= "Tenemos que machacar las galletas maría mezcladas con mantequilla derretida y aplastarlas sobre el molde del cuenco, de forma que tome la forma del recipiente.">
+<Quinto_paso= "Como último paso, debemos verter la crema que se encuentra ahora en el frigorífico dentro del molde del cuenco hecho por galleta y dejarlo reposar durante 4h en el frigorífico.">
+</Pasos_a_seguir>
+
+<Receta_Tarta_de_chocolate>
+<Listado_de_ingredientes>
+<-Chocolate_para_fundir>
+<-Galletas_María>
+<-Mantequilla>
+<-Leche>
+<-Almendras>
+</Listado_de_ingredientes>
+<Pasos_a_seguir>
+<Primer_paso= "En el primer paso, necesitaremos coger una olla y ponrla a calentar, donde hayamos vertido previamente 1/2 taza de leche y 1/2 taza de agua">
+<Segundo_paso= "Mientras se calientan la leche y el agua, debemos echar el chocolate en otra olla y ponerla a calentar también, junto a las almendras troceadas, y no debemos a partar del fuego hasta que quede una mezcla homogénea.">
+<Tercer_paso= "A continuación machacamos las galletas y mezclamos con mantequilla derretida, haciendo una capa dentro del cuenco donde querremos tener nuestra tarta.">
+<Cuarto_paso= "Finalmente, tomamos el resultado del chocolate mezclado con almendras y lo vertimos en el cuenco relleno de galletas.">
+<Quinto_paso= "Como último paso, dejamos enfriar durante 5h en el frigorífico, y tras esto estará lista para comer.">
+</Pasos_a_seguir>
+</Receta_Tarta_de_chocolate>
