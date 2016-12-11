@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<club>
+  <member>
+    <name> Chris Smith </name>
+    <years-of-membership> 4 </years-of-membership>
+    <email> chris.smith@gmail.com </email>
+    <address> Notting Hill </address>
+  </member>
+  <member>
+    <name> Judi Zimmerman </name>
+    <years-of-membership> 5 </years-of-membership>
+    <email> judi.zimmer@gmail.com </email>
+    <address> Camden Town </address>
+  </member>
+  <member>
+    <name> Michael Carder </name>
+    <years-of-membership> 3 </years-of-membership>
+    <email> mick.carder@gmail.com </email>
+    <address> Regent Street </address>
+  </member>
+</club>

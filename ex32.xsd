@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="library">
+    <xs:complexType>
+      <xs:sequence>
+          <xs:element ref="book" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="book">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="writer" />
+        <xs:element ref="year-of-publication" />
+        <xs:element ref="title" />
+        <xs:element ref="place-of-publication" />
+        <xs:element ref="editorial" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="writer">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="name" minOccurs="1" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name" type="xs:string" />
+  <xs:element name="year-of-publication" type="xs:decimal" />
+  <xs:element name="title" type="xs:string" />
+  <xs:element name="place-of-publication" type="xs:string" />
+  <xs:element name="editorial" type="xs:string" />
+</xs:schema>
